@@ -1,0 +1,14 @@
+{
+  "name": "vuepress-home-page",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Delena Malan <delena.malan@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "vuepress": "^1.4.0"
+  },
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  }
+}
